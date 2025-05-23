@@ -1,0 +1,4 @@
+ubuntu:22.04
+python:3.9-slim
+redis:8.0.1
+# 此处一定要有一行空行
