@@ -36,8 +36,10 @@ while IFS= read -r image; do
     original_repo=$(echo "$image" | cut -d ':' -f1)
     original_tag=$(echo "$image" | cut -d ':' -f2)
 
+    acr_compatible_repo_name="${original_repo//\//-}"
+
     # 构造目标 ACR 完整镜像路径
-    target_full_image_path="${ACR_REGISTRY}/${ACR_NAMESPACE}/${original_repo}:${original_tag}"
+    target_full_image_path="${ACR_REGISTRY}/${ACR_NAMESPACE}/${acr_compatible_repo_name}:${original_tag}"
 
     echo "Original image full path: ${image}"
     echo "Target ACR image full path: ${target_full_image_path}"
