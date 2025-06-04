@@ -1,6 +1,1 @@
-ubuntu:22.04
-python:3.9-slim
-redis:8.0.1
-vllm/vllm-openai:latest
-nvidia/cuda:12.1.1-devel-ubuntu22.04
-# 此处一定要有一行空行
+cGhwOjguNAp1YnVudHU6MjIuMDQKcHl0aG9uOjMuOS1zbGltCnJlZGlzOjguMC4xCnZsbG0vdmxsbS1vcGVuYWk6bGF0ZXN0Cm52aWRpYS9jdWRhOjEyLjEuMS1kZXZlbC11YnVudHUyMi4wNAojIOatpOWkhOS4gOWumuimgeacieS4gOihjOepuuihjA==
