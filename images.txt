@@ -1,2 +1,2 @@
-rancher/rancher-agent:v2.11.3
+rancher/rancher:v2.11.3
 # 此处一定要有一行空行
