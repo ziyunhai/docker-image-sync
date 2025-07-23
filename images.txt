@@ -1,2 +1,2 @@
-rancher/shell:v0.4.1
+rancher/rancher-agent:v2.11.3
 # 此处一定要有一行空行
