@@ -1,2 +1,2 @@
-rancher/rancher:v2.11.3
+snowdreamtech/frps:0.63
 # 此处一定要有一行空行
