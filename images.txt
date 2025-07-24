@@ -1,2 +1,2 @@
-snowdreamtech/frps:0.63
+denghongcai/forsaken-mail:latest
 # 此处一定要有一行空行
