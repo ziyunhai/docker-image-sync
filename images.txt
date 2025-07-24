@@ -1,2 +1,2 @@
-coturn/coturn:4
+kern/filepizza:latest
 # 此处一定要有一行空行
