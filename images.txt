@@ -1,2 +1,2 @@
-denghongcai/forsaken-mail:latest
+coturn/coturn:4
 # 此处一定要有一行空行
