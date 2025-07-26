@@ -1,2 +1,2 @@
-jonnyan404/mrdoc-nginx:0.9.4-with-mysql
+easysoft/zentao:18.6
 # 此处一定要有一行空行
