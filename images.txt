@@ -1,2 +1,2 @@
-nginx:1.29.0-bookworm
+jonnyan404/mrdoc-nginx:0.9.4-with-mysql
 # 此处一定要有一行空行
