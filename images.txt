@@ -1,2 +1,2 @@
-docker.io/nvidia/cuda:11.0-base
+nvidia/cuda:12.1.0-base-ubuntu22.04
 # 此处一定要有一行空行
