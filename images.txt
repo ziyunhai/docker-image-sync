@@ -1,2 +1,2 @@
-n8nio/n8n:1.105.0
+docker.io/nvidia/cuda:11.0-base
 # 此处一定要有一行空行
