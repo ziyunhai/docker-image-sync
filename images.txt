@@ -1,2 +1,2 @@
-nvidia/cuda:12.1.0-base-ubuntu22.04
+nvidia/gpu-operator:v1.10.0
 # 此处一定要有一行空行
