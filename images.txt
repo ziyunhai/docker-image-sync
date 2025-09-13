@@ -1,2 +1,2 @@
-nvidia/gpu-operator:v1.10.0
+vllm/vllm-openai:v0.10.1.1
 # 此处一定要有一行空行
