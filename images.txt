@@ -1,2 +1,2 @@
-opendronemap/odm
-
+opendronemap/odm:latest
+# 此处一定要有一行空行
