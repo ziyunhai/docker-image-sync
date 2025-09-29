@@ -1,2 +1,2 @@
-vllm/vllm-openai:v0.10.2
+opendronemap/odm
 # 此处一定要有一行空行
