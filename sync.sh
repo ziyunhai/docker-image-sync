@@ -57,6 +57,7 @@ while IFS= read -r image; do
 
     # 拉取原始镜像
     echo "Pulling original image: ${image}..."
+    docker --version
     docker pull --platform linux/amd64 "${image}"
 
     # 打上阿里云 ACR 的标签
