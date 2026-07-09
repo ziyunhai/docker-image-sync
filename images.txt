@@ -1,2 +1,2 @@
-yeicor/colmap-openmvs:cuda-latest
+bodcoder2/dagsfm:v0
 # 此处一定要有一行空行
