@@ -1,2 +1,2 @@
-bodcoder2/dagsfm:v0
+opendronemap/odm:gpu
 # 此处一定要有一行空行
