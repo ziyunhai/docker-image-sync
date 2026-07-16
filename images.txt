@@ -1,2 +1,2 @@
-yeicor/colmap-openmvs:cpu-latest
+colmap/colmap:latest
 # 此处一定要有一行空行
