@@ -1,2 +1,2 @@
-colmap/colmap:latest
+openmvs/openmvs-ubuntu:latest
 # 此处一定要有一行空行
