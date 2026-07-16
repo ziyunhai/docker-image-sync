@@ -1,2 +1,2 @@
-openmvs/openmvs-ubuntu:latest
+us03385/graphsfm_cuda12.2:latest
 # 此处一定要有一行空行
