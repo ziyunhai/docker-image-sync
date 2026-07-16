@@ -1,2 +1,2 @@
-opendronemap/odm:gpu
+yeicor/colmap-openmvs:cuda-latest
 # 此处一定要有一行空行
